@@ -1,0 +1,729 @@
+Country,Year,Happiness Score,Continent
+Finland,2024,7.74,Europe
+Denmark,2024,7.58,Europe
+Iceland,2024,7.53,Europe
+Sweden,2024,7.34,Europe
+Israel,2024,7.34,Asia
+Netherlands,2024,7.32,Europe
+Norway,2024,7.3,Europe
+Luxembourg,2024,7.12,Europe
+Switzerland,2024,7.06,Europe
+Australia,2024,7.06,Oceania
+New Zealand,2024,7.03,Oceania
+Costa Rica,2024,6.96,North America
+Kuwait,2024,6.95,Asia
+Austria,2024,6.91,Europe
+Canada,2024,6.9,North America
+Belgium,2024,6.89,Europe
+Ireland,2024,6.84,Europe
+Czechia,2024,6.82,Europe
+Lithuania,2024,6.82,Europe
+United Kingdom,2024,6.75,Europe
+Slovenia,2024,6.74,Europe
+United Arab Emirates,2024,6.73,Asia
+United States,2024,6.73,North America
+Germany,2024,6.72,Europe
+Mexico,2024,6.68,North America
+Uruguay,2024,6.61,South America
+France,2024,6.61,Europe
+Saudi Arabia,2024,6.59,Asia
+Kosovo,2024,6.56,Unknown
+Singapore,2024,6.52,Asia
+Taiwan Province of China,2024,6.5,Unknown
+Romania,2024,6.49,Europe
+El Salvador,2024,6.47,North America
+Estonia,2024,6.45,Europe
+Poland,2024,6.44,Europe
+Spain,2024,6.42,Europe
+Serbia,2024,6.41,Europe
+Chile,2024,6.36,South America
+Panama,2024,6.36,North America
+Malta,2024,6.35,Europe
+Italy,2024,6.32,Europe
+Guatemala,2024,6.29,North America
+Nicaragua,2024,6.28,North America
+Brazil,2024,6.27,South America
+Slovakia,2024,6.26,Europe
+Latvia,2024,6.23,Europe
+Uzbekistan,2024,6.2,Asia
+Argentina,2024,6.19,South America
+Kazakhstan,2024,6.19,Asia
+Cyprus,2024,6.07,Asia
+Japan,2024,6.06,Asia
+South Korea,2024,6.06,Asia
+Philippines,2024,6.05,Asia
+Vietnam,2024,6.04,Asia
+Portugal,2024,6.03,Europe
+Hungary,2024,6.02,Europe
+Paraguay,2024,5.98,South America
+Thailand,2024,5.98,Asia
+Malaysia,2024,5.98,Asia
+China,2024,5.97,Asia
+Honduras,2024,5.97,North America
+Bahrain,2024,5.96,Asia
+Croatia,2024,5.94,Europe
+Greece,2024,5.93,Europe
+Bosnia and Herzegovina,2024,5.88,Europe
+Libya,2024,5.87,Africa
+Jamaica,2024,5.84,North America
+Peru,2024,5.84,South America
+Dominican Republic,2024,5.82,North America
+Mauritius,2024,5.82,Africa
+Moldova,2024,5.82,Europe
+Russia,2024,5.79,Europe
+Bolivia,2024,5.78,South America
+Ecuador,2024,5.73,South America
+Kyrgyzstan,2024,5.71,Asia
+Montenegro,2024,5.71,Europe
+Mongolia,2024,5.7,Asia
+Colombia,2024,5.7,South America
+Venezuela,2024,5.61,South America
+Indonesia,2024,5.57,Asia
+Bulgaria,2024,5.46,Europe
+Armenia,2024,5.46,Asia
+South Africa,2024,5.42,Africa
+North Macedonia,2024,5.37,Europe
+Algeria,2024,5.36,Africa
+Hong Kong S.A.R. of China,2024,5.32,Unknown
+Albania,2024,5.3,Europe
+Tajikistan,2024,5.28,Asia
+Congo (Brazzaville),2024,5.22,Unknown
+Mozambique,2024,5.22,Africa
+Georgia,2024,5.19,Asia
+Iraq,2024,5.17,Asia
+Nepal,2024,5.16,Asia
+Laos,2024,5.14,Asia
+Gabon,2024,5.11,Africa
+Ivory Coast,2024,5.08,Africa
+Guinea,2024,5.02,Africa
+Turkiye,2024,4.98,Unknown
+Senegal,2024,4.97,Africa
+Iran,2024,4.92,Asia
+Azerbaijan,2024,4.89,Asia
+Nigeria,2024,4.88,Africa
+State of Palestine,2024,4.88,Unknown
+Cameroon,2024,4.87,Africa
+Ukraine,2024,4.87,Europe
+Namibia,2024,4.83,Africa
+Morocco,2024,4.8,Africa
+Pakistan,2024,4.66,Asia
+Niger,2024,4.56,Africa
+Burkina Faso,2024,4.55,Africa
+Mauritania,2024,4.51,Africa
+Gambia,2024,4.49,Africa
+Chad,2024,4.47,Africa
+Kenya,2024,4.47,Africa
+Tunisia,2024,4.42,Africa
+Benin,2024,4.38,Africa
+Uganda,2024,4.37,Africa
+Myanmar,2024,4.35,Asia
+Cambodia,2024,4.34,Asia
+Ghana,2024,4.29,Africa
+Liberia,2024,4.27,Africa
+Mali,2024,4.23,Africa
+Madagascar,2024,4.23,Africa
+Togo,2024,4.21,Africa
+Jordan,2024,4.19,Asia
+India,2024,4.05,Asia
+Egypt,2024,3.98,Africa
+Sri Lanka,2024,3.9,Asia
+Bangladesh,2024,3.89,Asia
+Ethiopia,2024,3.86,Africa
+Tanzania,2024,3.78,Africa
+Comoros,2024,3.57,Africa
+Yemen,2024,3.56,Asia
+Zambia,2024,3.5,Africa
+Eswatini,2024,3.5,Africa
+Malawi,2024,3.42,Africa
+Botswana,2024,3.38,Africa
+Zimbabwe,2024,3.34,Africa
+Congo (Kinshasa),2024,3.3,Unknown
+Sierra Leone,2024,3.25,Africa
+Lesotho,2024,3.19,Africa
+Lebanon,2024,2.71,Asia
+Afghanistan,2024,1.72,Asia
+Finland,2023,7.8,Europe
+Denmark,2023,7.59,Europe
+Iceland,2023,7.53,Europe
+Israel,2023,7.47,Asia
+Netherlands,2023,7.4,Europe
+Sweden,2023,7.4,Europe
+Norway,2023,7.32,Europe
+Switzerland,2023,7.24,Europe
+Luxembourg,2023,7.23,Europe
+New Zealand,2023,7.12,Oceania
+Austria,2023,7.1,Europe
+Australia,2023,7.1,Oceania
+Canada,2023,6.96,North America
+Ireland,2023,6.91,Europe
+United States,2023,6.89,North America
+Germany,2023,6.89,Europe
+Belgium,2023,6.86,Europe
+Czechia,2023,6.85,Europe
+United Kingdom,2023,6.8,Europe
+Lithuania,2023,6.76,Europe
+France,2023,6.66,Europe
+Slovenia,2023,6.65,Europe
+Costa Rica,2023,6.61,North America
+Romania,2023,6.59,Europe
+Singapore,2023,6.59,Asia
+United Arab Emirates,2023,6.57,Asia
+Taiwan Province of China,2023,6.54,Unknown
+Uruguay,2023,6.49,South America
+Slovakia,2023,6.47,Europe
+Saudi Arabia,2023,6.46,Asia
+Estonia,2023,6.46,Europe
+Spain,2023,6.44,Europe
+Italy,2023,6.41,Europe
+Kosovo,2023,6.37,Unknown
+Chile,2023,6.33,South America
+Mexico,2023,6.33,North America
+Malta,2023,6.3,Europe
+Panama,2023,6.27,North America
+Poland,2023,6.26,Europe
+Nicaragua,2023,6.26,North America
+Latvia,2023,6.21,Europe
+Bahrain,2023,6.17,Asia
+Guatemala,2023,6.15,North America
+Kazakhstan,2023,6.14,Asia
+Serbia,2023,6.14,Europe
+Cyprus,2023,6.13,Asia
+Japan,2023,6.13,Asia
+Croatia,2023,6.13,Europe
+Brazil,2023,6.13,South America
+El Salvador,2023,6.12,North America
+Hungary,2023,6.04,Europe
+Argentina,2023,6.02,South America
+Honduras,2023,6.02,North America
+Uzbekistan,2023,6.01,Asia
+Malaysia,2023,6.01,Asia
+Portugal,2023,5.97,Europe
+South Korea,2023,5.95,Asia
+Greece,2023,5.93,Europe
+Mauritius,2023,5.9,Africa
+Thailand,2023,5.84,Asia
+Mongolia,2023,5.84,Asia
+Kyrgyzstan,2023,5.83,Asia
+Moldova,2023,5.82,Europe
+China,2023,5.82,Asia
+Vietnam,2023,5.76,Asia
+Paraguay,2023,5.74,South America
+Montenegro,2023,5.72,Europe
+Jamaica,2023,5.7,North America
+Bolivia,2023,5.68,South America
+Russia,2023,5.66,Europe
+Bosnia and Herzegovina,2023,5.63,Europe
+Colombia,2023,5.63,South America
+Dominican Republic,2023,5.57,North America
+Ecuador,2023,5.56,South America
+Peru,2023,5.53,South America
+Philippines,2023,5.52,Asia
+Bulgaria,2023,5.47,Europe
+Nepal,2023,5.36,Asia
+Armenia,2023,5.34,Asia
+Tajikistan,2023,5.33,Asia
+Algeria,2023,5.33,Africa
+Hong Kong S.A.R. of China,2023,5.31,Unknown
+Albania,2023,5.28,Europe
+Indonesia,2023,5.28,Asia
+South Africa,2023,5.28,Africa
+Congo (Brazzaville),2023,5.27,Unknown
+North Macedonia,2023,5.25,Europe
+Venezuela,2023,5.21,South America
+Laos,2023,5.11,Asia
+Georgia,2023,5.11,Asia
+Guinea,2023,5.07,Africa
+Ukraine,2023,5.07,Europe
+Ivory Coast,2023,5.05,Africa
+Gabon,2023,5.04,Africa
+Nigeria,2023,4.98,Africa
+Cameroon,2023,4.97,Africa
+Mozambique,2023,4.95,Africa
+Iraq,2023,4.94,Asia
+State of Palestine,2023,4.91,Unknown
+Morocco,2023,4.9,Africa
+Iran,2023,4.88,Asia
+Senegal,2023,4.86,Africa
+Mauritania,2023,4.72,Africa
+Burkina Faso,2023,4.64,Africa
+Namibia,2023,4.63,Africa
+Turkiye,2023,4.61,Unknown
+Ghana,2023,4.61,Africa
+Pakistan,2023,4.56,Asia
+Niger,2023,4.5,Africa
+Tunisia,2023,4.5,Africa
+Kenya,2023,4.49,Africa
+Sri Lanka,2023,4.44,Asia
+Uganda,2023,4.43,Africa
+Chad,2023,4.4,Africa
+Cambodia,2023,4.39,Asia
+Benin,2023,4.37,Africa
+Myanmar,2023,4.37,Asia
+Bangladesh,2023,4.28,Asia
+Gambia,2023,4.28,Africa
+Mali,2023,4.2,Africa
+Egypt,2023,4.17,Africa
+Togo,2023,4.14,Africa
+Jordan,2023,4.12,Asia
+Ethiopia,2023,4.09,Africa
+Liberia,2023,4.04,Africa
+India,2023,4.04,Asia
+Madagascar,2023,4.02,Africa
+Zambia,2023,3.98,Africa
+Tanzania,2023,3.69,Africa
+Comoros,2023,3.55,Africa
+Malawi,2023,3.5,Africa
+Botswana,2023,3.44,Africa
+Congo (Kinshasa),2023,3.21,Unknown
+Zimbabwe,2023,3.2,Africa
+Sierra Leone,2023,3.14,Africa
+Lebanon,2023,2.39,Asia
+Afghanistan,2023,1.86,Asia
+Finland,2023,7.82,Europe
+Denmark,2023,7.64,Europe
+Iceland,2023,7.56,Europe
+Switzerland,2023,7.51,Europe
+Netherlands,2023,7.42,Europe
+Luxembourg,2023,7.4,Europe
+Sweden,2023,7.38,Europe
+Norway,2023,7.37,Europe
+Israel,2023,7.36,Asia
+New Zealand,2022,7.2,Oceania
+Austria,2022,7.16,Europe
+Australia,2022,7.16,Oceania
+Ireland,2022,7.04,Europe
+Germany,2022,7.03,Europe
+Canada,2022,7.03,North America
+United States,2022,6.98,North America
+United Kingdom,2022,6.94,Europe
+Czechia,2022,6.92,Europe
+Belgium,2022,6.81,Europe
+France,2022,6.69,Europe
+Bahrain,2022,6.65,Asia
+Slovenia,2022,6.63,Europe
+Costa Rica,2022,6.58,North America
+United Arab Emirates,2022,6.58,Asia
+Saudi Arabia,2022,6.52,Asia
+Taiwan Province of China,2022,6.51,Unknown
+Singapore,2022,6.48,Asia
+Romania,2022,6.48,Europe
+Spain,2022,6.48,Europe
+Uruguay,2022,6.47,South America
+Italy,2022,6.47,Europe
+Kosovo,2022,6.46,Unknown
+Malta,2022,6.45,Europe
+Lithuania,2022,6.45,Europe
+Slovakia,2022,6.39,Europe
+Estonia,2022,6.34,Europe
+Panama,2022,6.31,North America
+Brazil,2022,6.29,South America
+Guatemala,2022,6.26,North America
+Kazakhstan,2022,6.23,Asia
+Cyprus,2022,6.22,Asia
+Latvia,2022,6.18,Europe
+Serbia,2022,6.18,Europe
+Chile,2022,6.17,South America
+Nicaragua,2022,6.17,North America
+Mexico,2022,6.13,North America
+Croatia,2022,6.13,Europe
+Poland,2022,6.12,Europe
+El Salvador,2022,6.12,North America
+Kuwait,2022,6.11,Asia
+Hungary,2022,6.09,Europe
+Mauritius,2022,6.07,Africa
+Uzbekistan,2022,6.06,Asia
+Japan,2022,6.04,Asia
+Honduras,2022,6.02,North America
+Portugal,2022,6.02,Europe
+Argentina,2022,5.97,South America
+Greece,2022,5.95,Europe
+South Korea,2022,5.94,Asia
+Philippines,2022,5.9,Asia
+Thailand,2022,5.89,Asia
+Moldova,2022,5.86,Europe
+Jamaica,2022,5.85,North America
+Kyrgyzstan,2022,5.83,Asia
+Belarus,2022,5.82,Europe
+Colombia,2022,5.78,South America
+Bosnia and Herzegovina,2022,5.77,Europe
+Mongolia,2022,5.76,Asia
+Dominican Republic,2022,5.74,North America
+Malaysia,2022,5.71,Asia
+Bolivia,2022,5.6,South America
+China,2022,5.59,Asia
+Paraguay,2022,5.58,South America
+Peru,2022,5.56,South America
+Montenegro,2022,5.55,Europe
+Ecuador,2022,5.53,South America
+Vietnam,2022,5.49,Asia
+Turkmenistan,2022,5.47,Asia
+North Cyprus,2022,5.47,Unknown
+Russia,2022,5.46,Europe
+Hong Kong S.A.R. of China,2022,5.43,Unknown
+Armenia,2022,5.4,Asia
+Tajikistan,2022,5.38,Asia
+Nepal,2022,5.38,Asia
+Bulgaria,2022,5.37,Europe
+Libya,2022,5.33,Africa
+Indonesia,2022,5.24,Asia
+Ivory Coast,2022,5.24,Africa
+North Macedonia,2022,5.2,Europe
+Albania,2022,5.2,Europe
+South Africa,2022,5.19,Africa
+Azerbaijan,2022,5.17,Asia
+Gambia,2022,5.16,Africa
+Bangladesh,2022,5.16,Asia
+Laos,2022,5.14,Asia
+Algeria,2022,5.12,Africa
+Liberia,2022,5.12,Africa
+Ukraine,2022,5.08,Europe
+Congo,2022,5.08,Africa
+Morocco,2022,5.06,Africa
+Mozambique,2022,5.05,Africa
+Cameroon,2022,5.05,Africa
+Senegal,2022,5.05,Africa
+Niger,2022,5.0,Africa
+Georgia,2022,4.97,Asia
+Gabon,2022,4.96,Africa
+Iraq,2022,4.94,Asia
+Venezuela,2022,4.93,South America
+Guinea,2022,4.89,Africa
+Iran,2022,4.89,Asia
+Ghana,2022,4.87,Africa
+Turkey,2022,4.74,Asia
+Burkina Faso,2022,4.67,Africa
+Cambodia,2022,4.64,Asia
+Benin,2022,4.62,Africa
+Comoros,2022,4.61,Africa
+Uganda,2022,4.6,Africa
+Nigeria,2022,4.55,Africa
+Kenya,2022,4.54,Africa
+Tunisia,2022,4.52,Africa
+Pakistan,2022,4.52,Asia
+Palestinian Territories,2022,4.48,Unknown
+Mali,2022,4.48,Africa
+Namibia,2022,4.46,Africa
+"Eswatini, Kingdom of",2022,4.4,Unknown
+Myanmar,2022,4.39,Asia
+Sri Lanka,2022,4.36,Asia
+Madagascar,2022,4.34,Africa
+Egypt,2022,4.29,Africa
+Chad,2022,4.25,Africa
+Ethiopia,2022,4.24,Africa
+Yemen,2022,4.2,Asia
+Mauritania,2022,4.15,Africa
+Jordan,2022,4.15,Asia
+Togo,2022,4.11,Africa
+India,2022,3.78,Asia
+Zambia,2022,3.76,Africa
+Malawi,2022,3.75,Africa
+Tanzania,2022,3.7,Africa
+Sierra Leone,2022,3.57,Africa
+Lesotho,2022,3.51,Africa
+Botswana,2022,3.47,Africa
+Rwanda,2022,3.27,Africa
+Zimbabwe,2022,3.0,Africa
+Lebanon,2022,2.96,Asia
+Afghanistan,2022,2.4,Asia
+Finland,2022,7.84,Europe
+Denmark,2022,7.62,Europe
+Switzerland,2022,7.57,Europe
+Iceland,2022,7.55,Europe
+Netherlands,2022,7.46,Europe
+Norway,2022,7.39,Europe
+Sweden,2022,7.36,Europe
+Luxembourg,2022,7.32,Europe
+New Zealand,2022,7.28,Oceania
+Austria,2022,7.27,Europe
+Australia,2022,7.18,Oceania
+Israel,2022,7.16,Asia
+Germany,2021,7.16,Europe
+Canada,2021,7.1,North America
+Ireland,2021,7.09,Europe
+Costa Rica,2021,7.07,North America
+United Kingdom,2021,7.06,Europe
+Czech Republic,2021,6.97,Europe
+United States,2021,6.95,North America
+Belgium,2021,6.83,Europe
+France,2021,6.69,Europe
+Bahrain,2021,6.65,Asia
+Malta,2021,6.6,Europe
+Taiwan Province of China,2021,6.58,Unknown
+United Arab Emirates,2021,6.56,Asia
+Saudi Arabia,2021,6.49,Asia
+Spain,2021,6.49,Europe
+Italy,2021,6.48,Europe
+Slovenia,2021,6.46,Europe
+Guatemala,2021,6.44,North America
+Uruguay,2021,6.43,South America
+Singapore,2021,6.38,Asia
+Kosovo,2021,6.37,Unknown
+Slovakia,2021,6.33,Europe
+Brazil,2021,6.33,South America
+Mexico,2021,6.32,North America
+Jamaica,2021,6.31,North America
+Lithuania,2021,6.26,Europe
+Cyprus,2021,6.22,Asia
+Estonia,2021,6.19,Europe
+Panama,2021,6.18,North America
+Uzbekistan,2021,6.18,Asia
+Chile,2021,6.17,South America
+Poland,2021,6.17,Europe
+Kazakhstan,2021,6.15,Asia
+Romania,2021,6.14,Europe
+Kuwait,2021,6.11,Asia
+Serbia,2021,6.08,Europe
+El Salvador,2021,6.06,North America
+Mauritius,2021,6.05,Africa
+Latvia,2021,6.03,Europe
+Colombia,2021,6.01,South America
+Hungary,2021,5.99,Europe
+Thailand,2021,5.99,Asia
+Nicaragua,2021,5.97,North America
+Japan,2021,5.94,Asia
+Argentina,2021,5.93,South America
+Portugal,2021,5.93,Europe
+Honduras,2021,5.92,North America
+Croatia,2021,5.88,Europe
+Philippines,2021,5.88,Asia
+South Korea,2021,5.85,Asia
+Peru,2021,5.84,South America
+Bosnia and Herzegovina,2021,5.81,Europe
+Moldova,2021,5.77,Europe
+Ecuador,2021,5.76,South America
+Kyrgyzstan,2021,5.74,Asia
+Greece,2021,5.72,Europe
+Bolivia,2021,5.72,South America
+Mongolia,2021,5.68,Asia
+Paraguay,2021,5.65,South America
+Montenegro,2021,5.58,Europe
+Dominican Republic,2021,5.55,North America
+North Cyprus,2021,5.54,Unknown
+Belarus,2021,5.53,Europe
+Russia,2021,5.48,Europe
+Hong Kong S.A.R. of China,2021,5.48,Unknown
+Tajikistan,2021,5.47,Asia
+Vietnam,2021,5.41,Asia
+Libya,2021,5.41,Africa
+Malaysia,2021,5.38,Asia
+Indonesia,2021,5.35,Asia
+Congo (Brazzaville),2021,5.34,Unknown
+China,2021,5.34,Asia
+Ivory Coast,2021,5.31,Africa
+Armenia,2021,5.28,Asia
+Nepal,2021,5.27,Asia
+Bulgaria,2021,5.27,Europe
+Maldives,2021,5.2,Asia
+Azerbaijan,2021,5.17,Asia
+Cameroon,2021,5.14,Africa
+Senegal,2021,5.13,Africa
+Albania,2021,5.12,Europe
+North Macedonia,2021,5.1,Europe
+Ghana,2021,5.09,Africa
+Niger,2021,5.07,Africa
+Turkmenistan,2021,5.07,Asia
+Gambia,2021,5.05,Africa
+Benin,2021,5.05,Africa
+Laos,2021,5.03,Asia
+Bangladesh,2021,5.03,Asia
+Guinea,2021,4.98,Africa
+South Africa,2021,4.96,Africa
+Turkey,2021,4.95,Asia
+Pakistan,2021,4.93,Asia
+Morocco,2021,4.92,Africa
+Venezuela,2021,4.89,South America
+Georgia,2021,4.89,Asia
+Algeria,2021,4.89,Africa
+Ukraine,2021,4.88,Europe
+Iraq,2021,4.85,Asia
+Gabon,2021,4.85,Africa
+Burkina Faso,2021,4.83,Africa
+Cambodia,2021,4.83,Asia
+Mozambique,2021,4.79,Africa
+Nigeria,2021,4.76,Africa
+Mali,2021,4.72,Africa
+Iran,2021,4.72,Asia
+Uganda,2021,4.64,Africa
+Liberia,2021,4.63,Africa
+Kenya,2021,4.61,Africa
+Tunisia,2021,4.6,Africa
+Lebanon,2021,4.58,Asia
+Namibia,2021,4.57,Africa
+Palestinian Territories,2021,4.52,Unknown
+Myanmar,2021,4.43,Asia
+Jordan,2021,4.4,Asia
+Chad,2021,4.36,Africa
+Sri Lanka,2021,4.33,Asia
+Swaziland,2021,4.31,Africa
+Comoros,2021,4.29,Africa
+Egypt,2021,4.28,Africa
+Ethiopia,2021,4.28,Africa
+Mauritania,2021,4.23,Africa
+Madagascar,2021,4.21,Africa
+Togo,2021,4.11,Africa
+Zambia,2021,4.07,Africa
+Sierra Leone,2021,3.85,Africa
+India,2021,3.82,Asia
+Burundi,2021,3.78,Africa
+Yemen,2021,3.66,Asia
+Tanzania,2021,3.62,Africa
+Haiti,2021,3.62,North America
+Malawi,2021,3.6,Africa
+Lesotho,2021,3.51,Africa
+Botswana,2021,3.47,Africa
+Rwanda,2021,3.42,Africa
+Zimbabwe,2021,3.15,Africa
+Afghanistan,2021,2.52,Asia
+Finland,2021,7.81,Europe
+Denmark,2021,7.65,Europe
+Switzerland,2021,7.56,Europe
+Iceland,2021,7.5,Europe
+Norway,2021,7.49,Europe
+Netherlands,2021,7.45,Europe
+Sweden,2021,7.35,Europe
+New Zealand,2021,7.3,Oceania
+Austria,2021,7.29,Europe
+Luxembourg,2021,7.24,Europe
+Canada,2021,7.23,North America
+Australia,2021,7.22,Oceania
+United Kingdom,2021,7.16,Europe
+Israel,2021,7.13,Asia
+Costa Rica,2021,7.12,North America
+Ireland,2021,7.09,Europe
+Germany,2020,7.08,Europe
+United States,2020,6.94,North America
+Czech Republic,2020,6.91,Europe
+Belgium,2020,6.86,Europe
+United Arab Emirates,2020,6.79,Asia
+Malta,2020,6.77,Europe
+France,2020,6.66,Europe
+Mexico,2020,6.47,North America
+Taiwan Province of China,2020,6.46,Unknown
+Uruguay,2020,6.44,South America
+Saudi Arabia,2020,6.41,Asia
+Spain,2020,6.4,Europe
+Guatemala,2020,6.4,North America
+Italy,2020,6.39,Europe
+Singapore,2020,6.38,Asia
+Brazil,2020,6.38,South America
+Slovenia,2020,6.36,Europe
+El Salvador,2020,6.35,North America
+Kosovo,2020,6.33,Unknown
+Panama,2020,6.3,North America
+Slovakia,2020,6.28,Europe
+Uzbekistan,2020,6.26,Asia
+Chile,2020,6.23,South America
+Bahrain,2020,6.23,Asia
+Lithuania,2020,6.22,Europe
+Trinidad and Tobago,2020,6.19,North America
+Poland,2020,6.19,Europe
+Colombia,2020,6.16,South America
+Cyprus,2020,6.16,Asia
+Nicaragua,2020,6.14,North America
+Romania,2020,6.12,Europe
+Kuwait,2020,6.1,Asia
+Mauritius,2020,6.1,Africa
+Kazakhstan,2020,6.06,Asia
+Estonia,2020,6.02,Europe
+Philippines,2020,6.01,Asia
+Hungary,2020,6.0,Europe
+Thailand,2020,6.0,Asia
+Argentina,2020,5.97,South America
+Honduras,2020,5.95,North America
+Latvia,2020,5.95,Europe
+Ecuador,2020,5.93,South America
+Portugal,2020,5.91,Europe
+Jamaica,2020,5.89,North America
+South Korea,2020,5.87,Asia
+Japan,2020,5.87,Asia
+Peru,2020,5.8,South America
+Serbia,2020,5.78,Europe
+Bolivia,2020,5.75,South America
+Pakistan,2020,5.69,Asia
+Paraguay,2020,5.69,South America
+Dominican Republic,2020,5.69,North America
+Bosnia and Herzegovina,2020,5.67,Europe
+Moldova,2020,5.61,Europe
+Tajikistan,2020,5.56,Asia
+Montenegro,2020,5.55,Europe
+Russia,2020,5.55,Europe
+Kyrgyzstan,2020,5.54,Asia
+Belarus,2020,5.54,Europe
+North Cyprus,2020,5.54,Unknown
+Greece,2020,5.51,Europe
+Hong Kong S.A.R. of China,2020,5.51,Unknown
+Croatia,2020,5.5,Europe
+Libya,2020,5.49,Africa
+Mongolia,2020,5.46,Asia
+Malaysia,2020,5.38,Asia
+Vietnam,2020,5.35,Asia
+Indonesia,2020,5.29,Asia
+Ivory Coast,2020,5.23,Africa
+Benin,2020,5.22,Africa
+Maldives,2020,5.2,Asia
+Congo (Brazzaville),2020,5.19,Unknown
+Azerbaijan,2020,5.16,Asia
+Macedonia,2020,5.16,Europe
+Ghana,2020,5.15,Africa
+Nepal,2020,5.14,Asia
+Turkey,2020,5.13,Asia
+China,2020,5.12,Asia
+Turkmenistan,2020,5.12,Asia
+Bulgaria,2020,5.1,Europe
+Morocco,2020,5.09,Africa
+Cameroon,2020,5.08,Africa
+Venezuela,2020,5.05,South America
+Algeria,2020,5.01,Africa
+Senegal,2020,4.98,Africa
+Guinea,2020,4.95,Africa
+Niger,2020,4.91,Africa
+Laos,2020,4.89,Asia
+Albania,2020,4.88,Europe
+Cambodia,2020,4.85,Asia
+Bangladesh,2020,4.83,Asia
+Gabon,2020,4.83,Africa
+South Africa,2020,4.81,Africa
+Iraq,2020,4.78,Asia
+Lebanon,2020,4.77,Asia
+Burkina Faso,2020,4.77,Africa
+Gambia,2020,4.75,Africa
+Mali,2020,4.73,Africa
+Nigeria,2020,4.72,Africa
+Armenia,2020,4.68,Asia
+Georgia,2020,4.67,Asia
+Iran,2020,4.67,Asia
+Jordan,2020,4.63,Asia
+Mozambique,2020,4.62,Africa
+Kenya,2020,4.58,Africa
+Namibia,2020,4.57,Africa
+Ukraine,2020,4.56,Europe
+Liberia,2020,4.56,Africa
+Palestinian Territories,2020,4.55,Unknown
+Uganda,2020,4.43,Africa
+Chad,2020,4.42,Africa
+Tunisia,2020,4.39,Africa
+Mauritania,2020,4.37,Africa
+Sri Lanka,2020,4.33,Asia
+Congo (Kinshasa),2020,4.31,Unknown
+Swaziland,2020,4.31,Africa
+Myanmar,2020,4.31,Asia
+Comoros,2020,4.29,Africa
+Togo,2020,4.19,Africa
+Ethiopia,2020,4.19,Africa
+Madagascar,2020,4.17,Africa
+Egypt,2020,4.15,Africa
+Sierra Leone,2020,3.93,Africa
+Burundi,2020,3.78,Africa
+Zambia,2020,3.76,Africa
+Haiti,2020,3.72,North America
+Lesotho,2020,3.65,Africa
+India,2020,3.57,Asia
+Malawi,2020,3.54,Africa
+Yemen,2020,3.53,Asia
+Botswana,2020,3.48,Africa
+Tanzania,2020,3.48,Africa
+Central African Republic,2020,3.48,Africa
+Rwanda,2020,3.31,Africa
+Zimbabwe,2020,3.3,Africa
+South Sudan,2020,2.82,Africa
+Afghanistan,2020,2.57,Asia
